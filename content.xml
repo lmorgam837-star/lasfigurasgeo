@@ -1,0 +1,1297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>flux</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260610181413MTY0M1</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202606101814137H7IZG</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>¡Las Figuras Geométricas!</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Las figuras geométricas</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Luis Miguel Morillas Gamarra</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>A través de este recurso, podrás trabajar las figuras geométricas de una forma autónoma y divertida.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>flux</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1781108026873</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mq89p8pg-z6f06k2ux</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Presentación y descripción del proyecto</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación y descripción del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación y descripción del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Presentación y descripción del proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq89p8pg-z6f06k2ux</odePageId>
+      <odeBlockId>block-1780934585407-0eu0l1d3b</odeBlockId>
+      <blockName>Información sobre el recurso digital</blockName>
+      <iconName>start</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq89p8pg-z6f06k2ux</odePageId>
+          <odeBlockId>block-1780934585407-0eu0l1d3b</odeBlockId>
+          <odeIdeviceId>idevice-1780934585401-if5b80mss</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">¡Las Figuras Geométricas!</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">A través de este recurso, podrás trabajar las figuras geométricas de una forma autónoma y divertida.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Luis Miguel Morillas</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mq89p8pg-z6f06k2ux</odePageId>
+      <odeBlockId>block-1780934824611-v5d1hypgw</odeBlockId>
+      <blockName>¡Bienvenid@s a este nuevo reto!</blockName>
+      <iconName>letters</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq89p8pg-z6f06k2ux</odePageId>
+          <odeBlockId>block-1780934824611-v5d1hypgw</odeBlockId>
+          <odeIdeviceId>idevice-1780934824610-hfjisooi6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>4:00</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Grupos de 4 personas</dd></div></dl><p>👋🏼 ¡Hola, pequeños exploradores y exploradoras! </p>
+<p>¿Estáis preparados para un aventura llena de formas, colores y descubrimientos? 🚀✨</p>
+<p>Si es así, ¡adelante! Hoy vamos a conocer a unos personajes muy especiales: el círculo, el cuadrado, el rectángulo y el triángulo. Están por todas partes: en las señales de tráfico, en las casas, en los relojes e incluso en los juguetes que utilizáis cada día.</p>
+<p>Para ayudaros en esta misión, vamos a utilizar un recurso digital muy divertido donde podréis observar, pensar, jugar y aprender mientras descubrís los secretos de las figuras geométricas.</p>
+<p>Cada actividad será un rato que os convertirá en auténticos detectives de las formas geométricas básicas. ¿Seréis capaces de encontrar círculos escondidos? ¿Reconocer un triángulo entre muchas figuras? ¿Descubrir cuantos lados tiene un cuadrado?</p>
+<p>¡Estoy seguro de que lo haréis genial! ☺️</p>
+<p>🕵🏻‍♀️🕵🏻‍♂️Preparad vuestra curiosidad, abrir bien los ojos y... ¡comencemos esta fantástica aventura geométrica! </p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780934824610-hfjisooi6","textInfoDurationInput":"4:00","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Grupos de 4 personas","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>4:00</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>Grupos de 4 personas</dd></div></dl><p>👋🏼 ¡Hola, pequeños exploradores y exploradoras! </p>\n<p>¿Estáis preparados para un aventura llena de formas, colores y descubrimientos? 🚀✨</p>\n<p>Si es así, ¡adelante! Hoy vamos a conocer a unos personajes muy especiales: el círculo, el cuadrado, el rectángulo y el triángulo. Están por todas partes: en las señales de tráfico, en las casas, en los relojes e incluso en los juguetes que utilizáis cada día.</p>\n<p>Para ayudaros en esta misión, vamos a utilizar un recurso digital muy divertido donde podréis observar, pensar, jugar y aprender mientras descubrís los secretos de las figuras geométricas.</p>\n<p>Cada actividad será un rato que os convertirá en auténticos detectives de las formas geométricas básicas. ¿Seréis capaces de encontrar círculos escondidos? ¿Reconocer un triángulo entre muchas figuras? ¿Descubrir cuantos lados tiene un cuadrado?</p>\n<p>¡Estoy seguro de que lo haréis genial! ☺️</p>\n<p>🕵🏻‍♀️🕵🏻‍♂️Preparad vuestra curiosidad, abrir bien los ojos y... ¡comencemos esta fantástica aventura geométrica! </p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq89p8pi-u8rndn5s7</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Información sobre protección de datos personales y garantías de derechos digitales</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Información sobre protección de datos personales y garantías de derechos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Información sobre protección de datos personales y garantías de derechos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq89p8pi-u8rndn5s7</odePageId>
+      <odeBlockId>block-1780936156636-7tce1no1g</odeBlockId>
+      <blockName>Importancia sobre la protección de datos</blockName>
+      <iconName>english</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq89p8pi-u8rndn5s7</odePageId>
+          <odeBlockId>block-1780936156636-7tce1no1g</odeBlockId>
+          <odeIdeviceId>idevice-1780936156634-vmg3iy4ro</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">👋🏼 ¡Hola de nuevo exploradores!</p>
+<p style="text-align: justify;">🚨Antes de comenzar este fantástico viaje, me gustaría aclararos ciertas aspectos muy importantes a tener en cuenta, cuando empezamos a utilizar las nuevas tecnologías, no solo en clase, sino también en nuestro tiempo libre con las redes sociales. </p>
+<p style="text-align: justify;">Para ello, os paso un enlace sobre esas cuestiones en las que tenemos que poner especialmente atención. 🚩🚩🚩</p>
+<p style="text-align: justify;">🔗 <a href="https://canva.link/j38kn0bafm2uz2e">https://canva.link/j38kn0bafm2uz2e</a> 🔗</p>
+<p style="text-align: justify;"><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780936156634-vmg3iy4ro","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">👋🏼 ¡Hola de nuevo exploradores!</p>\n<p style=\"text-align: justify;\">🚨Antes de comenzar este fantástico viaje, me gustaría aclararos ciertas aspectos muy importantes a tener en cuenta, cuando empezamos a utilizar las nuevas tecnologías, no solo en clase, sino también en nuestro tiempo libre con las redes sociales. </p>\n<p style=\"text-align: justify;\">Para ello, os paso un enlace sobre esas cuestiones en las que tenemos que poner especialmente atención. 🚩🚩🚩</p>\n<p style=\"text-align: justify;\">🔗 <a href=\"https://canva.link/j38kn0bafm2uz2e\">https://canva.link/j38kn0bafm2uz2e</a> 🔗</p>\n<p style=\"text-align: justify;\"><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq89p8pi-vhh7ts276</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Descripción del producto final</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción del producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción del producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq89p8pi-vhh7ts276</odePageId>
+      <odeBlockId>block-1780937465611-f2y8gffju</odeBlockId>
+      <blockName>La Tarea Final ⭐️</blockName>
+      <iconName>diary_alt</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq89p8pi-vhh7ts276</odePageId>
+          <odeBlockId>block-1780937465611-f2y8gffju</odeBlockId>
+          <odeIdeviceId>idevice-1780937465608-ipdg2r8a3</odeIdeviceId>
+          <odeIdeviceTypeName>casestudy</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-casestudy-container">
+  
+        <div class="caseStudyContent">            
+            <div class="CSP-Info mb-3">
+                
+            <dl>
+                <div class="inline"><dt><span title="Duración">Duración</span></dt><dd>4:00</dd></div>
+                <div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>4</dd></div>
+            </dl>
+            </div>
+            <div class="CSP-History mb-3" >
+                <p style="text-align: justify;">¡Llega el momento de desvelar cuál será la <strong>Tarea Final</strong>! 🫆🫆🫆</p>
+<p style="text-align: justify;">Durante estos días habéis estado aprendiendo muchas cosas sobre las figuras geométricas: hemos conocido al <strong>círculo</strong>, al <strong>cuadrado</strong>, al <strong>triángulo</strong> y al <strong>rectángulo</strong>, y habéis descubierto dónde se esconden en nuestro mundo. </p>
+<p style="text-align: justify;">Ahora es el momento de convertiros en escritores, ilustradores y creadores digitales. 📚🎨💻✨</p>
+<p style="text-align: justify;">Vosotros decidiréis qué sucede en vuestra historia. Podréis inventar personajes, escenarios fantásticos y finales sorprendentes, además, en Book Creator podréis añadir dibujos, imágenes, texto e incluso grabar vuestra voz para dar vida a vuestro cuento</p>
+<p style="text-align: justify;">🎯 ¿Qué debe tener vuestro libro?</p>
+<p style="text-align: justify;">- Una historia sencilla y divertida.</p>
+<p style="text-align: justify;">- Incluir las figuras geométricas como elementos importantes de la historia.</p>
+<p style="text-align: justify;">- Utilizar vuestra imaginación y creatividad.</p>
+<p style="text-align: justify;">- Finalmente, compartir vuestro cuento con los compañeros y compañeras.</p>
+<p style="text-align: justify;">✍🏼 ¡Manos a la obra, pequeños escritores y escritoras!</p>
+            </div>
+            <div class="CSP-Activities mb-3">
+                
+                <div class="CSP-ActivityDiv ">
+                    <div class="CSP-Activity mb-3">
+                        <p><strong>ACTIVIDAD 1:</strong></p>
+<p>🦹🏻 🦸🏻🦸🏼‍♂️¿Cuáles serán nuestros personajes?</p>
+<p>Cada uno de vosotros deberá elegir una figura geométrica de las cuatro que conocemos y le asignaremos:</p>
+<ul>
+<li>Un nombre.</li>
+<li>Una personalidad.</li>
+<li>Un color favorito.</li>
+<li>Una habilidad especial.</li>
+</ul>
+                    </div>
+                    
+                    <div class="iDevice_buttons feedback-button js-required">
+                        <input type="button" class="CSP-FeedbackBtn feedbacktooglebutton" value="Mostrar retroalimentación">
+                    </div>
+                    <div class="CSP-FeedbackText feedback js-feedback js-hidden" style="display: none;">
+                        <p><strong>ACTIVIDAD 2:</strong></p>
+<p>🎲 ¡El dado de las aventuras! ✨</p>
+<p><strong>Objetivo</strong>: Generar ideas para futuras historias.</p>
+<p>Con varios dados ilustrados, podréis determinar al azar:</p>
+<ul>
+<li>Personaje (figura geométrica).</li>
+<li>Lugar (bosque, castillo, ciudad, espacio, etc.).</li>
+<li>Un situación ( buscar, resolver, etc.).</li>
+</ul>
+<p><br /></p>
+                    </div>
+                </div>
+            
+                <div class="CSP-ActivityDiv CSP-ActivityDivBlack">
+                    <div class="CSP-Activity mb-3">
+                        <p><strong>ACTIVIDAD 3:</strong></p>
+<p>Taller Book Creator</p>
+<p><strong>Objetivo</strong>: Familiarizarse con la herramienta digital.</p>
+<p>Realizar una práctica guiada para:</p>
+<ul>
+<li>Crear páginas.</li>
+<li>Insertar imágenes.</li>
+<li>Escribir texto.</li>
+<li>Grabar audio.</li>
+</ul>
+                    </div>
+                    
+                    <div class="CSP-FeedbackText feedback js-feedback js-hidden" style="display: none;">
+                        
+                    </div>
+                </div>
+            
+            </div>
+        </div>
+    
+</div>
+]]></htmlView>
+          <jsonProperties><![CDATA[{"id":"idevice-1780937465608-ipdg2r8a3","typeGame":"Case study","history":"<p style=\"text-align: justify;\">¡Llega el momento de desvelar cuál será la <strong>Tarea Final</strong>! 🫆🫆🫆</p>\n<p style=\"text-align: justify;\">Durante estos días habéis estado aprendiendo muchas cosas sobre las figuras geométricas: hemos conocido al <strong>círculo</strong>, al <strong>cuadrado</strong>, al <strong>triángulo</strong> y al <strong>rectángulo</strong>, y habéis descubierto dónde se esconden en nuestro mundo. </p>\n<p style=\"text-align: justify;\">Ahora es el momento de convertiros en escritores, ilustradores y creadores digitales. 📚🎨💻✨</p>\n<p style=\"text-align: justify;\">Vosotros decidiréis qué sucede en vuestra historia. Podréis inventar personajes, escenarios fantásticos y finales sorprendentes, además, en Book Creator podréis añadir dibujos, imágenes, texto e incluso grabar vuestra voz para dar vida a vuestro cuento</p>\n<p style=\"text-align: justify;\">🎯 ¿Qué debe tener vuestro libro?</p>\n<p style=\"text-align: justify;\">- Una historia sencilla y divertida.</p>\n<p style=\"text-align: justify;\">- Incluir las figuras geométricas como elementos importantes de la historia.</p>\n<p style=\"text-align: justify;\">- Utilizar vuestra imaginación y creatividad.</p>\n<p style=\"text-align: justify;\">- Finalmente, compartir vuestro cuento con los compañeros y compañeras.</p>\n<p style=\"text-align: justify;\">✍🏼 ¡Manos a la obra, pequeños escritores y escritoras!</p>","textInfoDurationInput":"4:00","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"4","textInfoParticipantsTextInput":"Agrupamiento","activities":[{"activity":"<p><strong>ACTIVIDAD 1:</strong></p>\n<p>🦹🏻 🦸🏻🦸🏼‍♂️¿Cuáles serán nuestros personajes?</p>\n<p>Cada uno de vosotros deberá elegir una figura geométrica de las cuatro que conocemos y le asignaremos:</p>\n<ul>\n<li>Un nombre.</li>\n<li>Una personalidad.</li>\n<li>Un color favorito.</li>\n<li>Una habilidad especial.</li>\n</ul>","feedback":"<p><strong>ACTIVIDAD 2:</strong></p>\n<p>🎲 ¡El dado de las aventuras! ✨</p>\n<p><strong>Objetivo</strong>: Generar ideas para futuras historias.</p>\n<p>Con varios dados ilustrados, podréis determinar al azar:</p>\n<ul>\n<li>Personaje (figura geométrica).</li>\n<li>Lugar (bosque, castillo, ciudad, espacio, etc.).</li>\n<li>Un situación ( buscar, resolver, etc.).</li>\n</ul>\n<p><br /></p>","buttonCaption":"Mostrar retroalimentación"},{"activity":"<p><strong>ACTIVIDAD 3:</strong></p>\n<p>Taller Book Creator</p>\n<p><strong>Objetivo</strong>: Familiarizarse con la herramienta digital.</p>\n<p>Realizar una práctica guiada para:</p>\n<ul>\n<li>Crear páginas.</li>\n<li>Insertar imágenes.</li>\n<li>Escribir texto.</li>\n<li>Grabar audio.</li>\n</ul>","feedback":"","buttonCaption":"Mostrar retroalimentación"}]}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq89p8pi-ya39de2mu</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Recursos para el alumnado</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos para el alumnado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos para el alumnado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Recursos para el alumnado</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq89p8pi-ya39de2mu</odePageId>
+      <odeBlockId>block-1781018258847-9tw5m4jji</odeBlockId>
+      <blockName>¡Adelante! Actividades interactivas.</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq89p8pi-ya39de2mu</odePageId>
+          <odeBlockId>block-1781018258847-9tw5m4jji</odeBlockId>
+          <odeIdeviceId>idevice-1781018258843-2g2hs57pl</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>1:00</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Individual</dd></div></dl><p>¡Bienvenidos a nuestro Paddlet Geométrico! ⭐️</p>
+<p>En este espacio encontrarás actividades divertidas para aprender y pasarlo bien. Podrás cantar canciones, adivinar acertijos, leer historias interesantes y jugar en diferentes juegos mientras avanzas en esta emocionante aventura. ¡Explora cada sección, participa y disfruta aprendiendo de una forma divertida! 🚀📚💻🎶</p>
+<p>🔗<a href="https://padlet.com/lmorgam837/las-figuras-geometricas-hl3mbg4nt8wenqq9"> https://padlet.com/lmorgam837/las-figuras-geometricas-hl3mbg4nt8wenqq9</a> 🔗</p>
+<p><br /></p>
+<p><br /></p>
+<p><br /></p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781018258843-2g2hs57pl","textInfoDurationInput":"1:00","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Individual","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>1:00</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>Individual</dd></div></dl><p>¡Bienvenidos a nuestro Paddlet Geométrico! ⭐️</p>\n<p>En este espacio encontrarás actividades divertidas para aprender y pasarlo bien. Podrás cantar canciones, adivinar acertijos, leer historias interesantes y jugar en diferentes juegos mientras avanzas en esta emocionante aventura. ¡Explora cada sección, participa y disfruta aprendiendo de una forma divertida! 🚀📚💻🎶</p>\n<p>🔗<a href=\"https://padlet.com/lmorgam837/las-figuras-geometricas-hl3mbg4nt8wenqq9\"> https://padlet.com/lmorgam837/las-figuras-geometricas-hl3mbg4nt8wenqq9</a> 🔗</p>\n<p><br /></p>\n<p><br /></p>\n<p><br /></p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq89p8pj-5wnq9ihei</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Recursos para el profesorado</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos para el profesorado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos para el profesorado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq89p8pj-5wnq9ihei</odePageId>
+      <odeBlockId>block-1781019136521-fcnd0fvzx</odeBlockId>
+      <blockName>Recurso para la Asamblea</blockName>
+      <iconName>technology</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq89p8pj-5wnq9ihei</odePageId>
+          <odeBlockId>block-1781019136521-fcnd0fvzx</odeBlockId>
+          <odeIdeviceId>idevice-1781019136519-4h8yq6sdh</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>1:00</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Gran grupo</dd></div></dl><p>🙋🏻‍♂️ ¡Bienvenidos profes! </p>
+<p>A continuación os comparto un recurso que he creado a modo complementario con el contenido que se está trabajando para realizar la asamblea a través de la aplicación <strong>Symbaloo</strong>, de esta forma podrás trabajar los conceptos básicos de una forma visual, dinámica e interactiva. 💡</p>
+<p>🔗 <a href="https://www.symbaloo.com/home/mix/13eP2K5BT5">https://www.symbaloo.com/home/mix/13eP2K5BT5</a> 🔗</p>
+<p></p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781019136519-4h8yq6sdh","textInfoDurationInput":"1:00","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Gran grupo","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>1:00</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>Gran grupo</dd></div></dl><p>🙋🏻‍♂️ ¡Bienvenidos profes! </p>\n<p>A continuación os comparto un recurso que he creado a modo complementario con el contenido que se está trabajando para realizar la asamblea a través de la aplicación <strong>Symbaloo</strong>, de esta forma podrás trabajar los conceptos básicos de una forma visual, dinámica e interactiva. 💡</p>\n<p>🔗 <a href=\"https://www.symbaloo.com/home/mix/13eP2K5BT5\">https://www.symbaloo.com/home/mix/13eP2K5BT5</a> 🔗</p>\n<p></p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq89p8pj-r44yhmyok</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Línea Temporal</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea Temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea Temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq89p8pj-r44yhmyok</odePageId>
+      <odeBlockId>block-1781019821894-xoml4c4o5</odeBlockId>
+      <blockName>👣 Pasos a seguir 🐾</blockName>
+      <iconName>diary_alt</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq89p8pj-r44yhmyok</odePageId>
+          <odeBlockId>block-1781019821894-xoml4c4o5</odeBlockId>
+          <odeIdeviceId>idevice-1781019821891-3rsso4s1v</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd></dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>4</dd></div></dl><p>📖 Leed atentamente. A continuación os dejo un Canva orientativo sobre como podría ser la realización de este producto final y las herramientas para poder hacerlo de forma colaborativa.</p>
+<p>🔗 <a href="https://canva.link/lo4ar2f8b7grtew">https://canva.link/lo4ar2f8b7grtew</a> 🔗</p>
+<p><br /></p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781019821891-3rsso4s1v","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"4","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd></dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>4</dd></div></dl><p>📖 Leed atentamente. A continuación os dejo un Canva orientativo sobre como podría ser la realización de este producto final y las herramientas para poder hacerlo de forma colaborativa.</p>\n<p>🔗 <a href=\"https://canva.link/lo4ar2f8b7grtew\">https://canva.link/lo4ar2f8b7grtew</a> 🔗</p>\n<p><br /></p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq89p8pj-8frs3rfn4</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Desarrollo de las sesiones</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Desarrollo de las sesiones</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Desarrollo de las sesiones</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq89p8pj-8frs3rfn4</odePageId>
+      <odeBlockId>block-1781020263995-fx523plc9</odeBlockId>
+      <blockName>¿Cómo lo vamos a hacer?</blockName>
+      <iconName>piece</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq89p8pj-8frs3rfn4</odePageId>
+          <odeBlockId>block-1781020263995-fx523plc9</odeBlockId>
+          <odeIdeviceId>idevice-1781020263992-womk2zfy9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>6:00</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>4</dd></div></dl><p style="text-align: justify;"><strong>1º Sesión: FASE DE APROXIMACIÓN.</strong></p>
+<p style="text-align: justify;">En esta primera sesión y, a modo de evaluación inicial, realizaremos un cuestionario de forma individual en google forms para conocer que es lo que sabemos del tema.</p>
+<p style="text-align: justify;">🔗 <a href="https://forms.gle/7hNes9RtAkqZB1KN7">https://forms.gle/7hNes9RtAkqZB1KN7</a> 🔗 ¡Ánimo, tú puedes! 💪☘️</p>
+<p style="text-align: justify;">A continuación, y mediante un Paddlet de elaboración propia, haremos una primera toma de contacto a través de un el tablero para conocer las figuras geométricas mediante una canción, adivinanzas, una historia y una serie de actividades interactivas.</p>
+<p style="text-align: justify;">🔗 <a href="https://padlet.com/lmorgam837/las-figuras-geometricas-hl3mbg4nt8wenqq9">https://padlet.com/lmorgam837/las-figuras-geometricas-hl3mbg4nt8wenqq9</a> 🔗</p>
+<p style="text-align: justify;"></p>
+<p style="text-align: justify;"><strong>2º Sesión: FASE CREATIVA.</strong></p>
+<p style="text-align: justify;">Durante esta segunda sesión os agruparéis de 4 en 4, y decidiréis cada uno que figura geométrica queréis, su posible nombre y personalidad, donde va a ocurrir la historia y la trama de la misma.  Para esta fase, podréis utilizar Drive, para recoger toda esa información de forma colaborativa en un mismo documento.</p>
+<p style="text-align: justify;"><strong></strong></p>
+<p style="text-align: justify;"><strong>3º Sesión: FASE DE ORGANIZACIÓN.</strong></p>
+<p style="text-align: justify;">LLegó el momento de materializar en un documento el esbozo de la historia, para ello utilizaremos la aplicacion de Canva para organizar los tres grandes momentos de la historia: </p>
+<ul>
+<li style="text-align: justify;">Presentación de los personajes.</li>
+<li style="text-align: justify;">La trama.</li>
+<li style="text-align: justify;">Desenlace.</li>
+</ul>
+<p style="text-align: justify;">Esta actividad también se hará en grupo.</p>
+<p style="text-align: justify;"></p>
+<p style="text-align: justify;"><strong>4º Sesión: FASE DE REALIZACIÓN.</strong></p>
+<p style="text-align: justify;">Esta sesión tendrá una duración inicial de 2h. Una vez que ya tenemos el material organizado, y nuevamente en grupo, comenzaremos a trabajar todo ese contenido en la aplicación Book Creator. Dando rienda suelta a nuestra imaginación y creatividad. 🎭</p>
+<p style="text-align: justify;"></p>
+<p style="text-align: justify;"><strong>5º Sesión: FASE DE EXPOSICIÓN.</strong></p>
+<p style="text-align: justify;">Esta última sesión será para presentar a vuestros compañeros de clase, el producto final en el cual habéis estado trabajando todo este tiempo.</p>
+<p style="text-align: justify;"></p>
+<p><br /></p>
+<p><br /></p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781020263992-womk2zfy9","textInfoDurationInput":"6:00","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"4","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>6:00</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>4</dd></div></dl><p style=\"text-align: justify;\"><strong>1º Sesión: FASE DE APROXIMACIÓN.</strong></p>\n<p style=\"text-align: justify;\">En esta primera sesión y, a modo de evaluación inicial, realizaremos un cuestionario de forma individual en google forms para conocer que es lo que sabemos del tema.</p>\n<p style=\"text-align: justify;\">🔗 <a href=\"https://forms.gle/7hNes9RtAkqZB1KN7\">https://forms.gle/7hNes9RtAkqZB1KN7</a> 🔗 ¡Ánimo, tú puedes! 💪☘️</p>\n<p style=\"text-align: justify;\">A continuación, y mediante un Paddlet de elaboración propia, haremos una primera toma de contacto a través de un el tablero para conocer las figuras geométricas mediante una canción, adivinanzas, una historia y una serie de actividades interactivas.</p>\n<p style=\"text-align: justify;\">🔗 <a href=\"https://padlet.com/lmorgam837/las-figuras-geometricas-hl3mbg4nt8wenqq9\">https://padlet.com/lmorgam837/las-figuras-geometricas-hl3mbg4nt8wenqq9</a> 🔗</p>\n<p style=\"text-align: justify;\"></p>\n<p style=\"text-align: justify;\"><strong>2º Sesión: FASE CREATIVA.</strong></p>\n<p style=\"text-align: justify;\">Durante esta segunda sesión os agruparéis de 4 en 4, y decidiréis cada uno que figura geométrica queréis, su posible nombre y personalidad, donde va a ocurrir la historia y la trama de la misma.  Para esta fase, podréis utilizar Drive, para recoger toda esa información de forma colaborativa en un mismo documento.</p>\n<p style=\"text-align: justify;\"><strong></strong></p>\n<p style=\"text-align: justify;\"><strong>3º Sesión: FASE DE ORGANIZACIÓN.</strong></p>\n<p style=\"text-align: justify;\">LLegó el momento de materializar en un documento el esbozo de la historia, para ello utilizaremos la aplicacion de Canva para organizar los tres grandes momentos de la historia: </p>\n<ul>\n<li style=\"text-align: justify;\">Presentación de los personajes.</li>\n<li style=\"text-align: justify;\">La trama.</li>\n<li style=\"text-align: justify;\">Desenlace.</li>\n</ul>\n<p style=\"text-align: justify;\">Esta actividad también se hará en grupo.</p>\n<p style=\"text-align: justify;\"></p>\n<p style=\"text-align: justify;\"><strong>4º Sesión: FASE DE REALIZACIÓN.</strong></p>\n<p style=\"text-align: justify;\">Esta sesión tendrá una duración inicial de 2h. Una vez que ya tenemos el material organizado, y nuevamente en grupo, comenzaremos a trabajar todo ese contenido en la aplicación Book Creator. Dando rienda suelta a nuestra imaginación y creatividad. 🎭</p>\n<p style=\"text-align: justify;\"></p>\n<p style=\"text-align: justify;\"><strong>5º Sesión: FASE DE EXPOSICIÓN.</strong></p>\n<p style=\"text-align: justify;\">Esta última sesión será para presentar a vuestros compañeros de clase, el producto final en el cual habéis estado trabajando todo este tiempo.</p>\n<p style=\"text-align: justify;\"></p>\n<p><br /></p>\n<p><br /></p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq89p8pj-camhqbw74</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Instrumentos de Evaluación</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq89p8pj-camhqbw74</odePageId>
+      <odeBlockId>block-1781023431758-uwdpx8duj</odeBlockId>
+      <blockName>¿Lo conseguimos?</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq89p8pj-camhqbw74</odePageId>
+          <odeBlockId>block-1781023431758-uwdpx8duj</odeBlockId>
+          <odeIdeviceId>idevice-1781023431754-p85sa8qrs</odeIdeviceId>
+          <odeIdeviceTypeName>rubric</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="rubric-IDevice"><div class="exe-rubrics-instructions gameQP-instructions"><p><strong>Completa la siguiente rúbrica:</strong></p>
+<p>En este caso practicaremos una autoevaluación en función de los descriptores que aparecen en esta rúbrica. </p></div><div class="rubric"><div class="exe-rubrics-DataGame js-hidden">%7B%22typeGame%22%3A%22Rubric%22%2C%22version%22%3A2%2C%22id%22%3A%22idevice-1781023431754-p85sa8qrs%22%2C%22table%22%3A%7B%22title%22%3A%22R%FAbrica%20de%20ejemplo%20%284x4%29%22%2C%22categories%22%3A%5B%22Criterios%201%3A%20Uso%20de%20las%20figuras%20geom%E9tricas%20en%20la%20historia.%22%2C%22Criterios%202%3A%20Estructura%20y%20comprensi%F3n%20de%20la%20historia.%22%2C%22Criterios%203%3A%20Creatividad%20y%20expresi%F3n.%22%2C%22Criterios%204%3A%20Uso%20de%20Book%20Creator%20y%20presentaci%F3n%20digital.%22%5D%2C%22scores%22%3A%5B%22Nivel%201-%20Inicial%22%2C%22Nivel%202%20-%20En%20proceso%22%2C%22Nivel%203%20-%20Notable%22%2C%22Nivel%204%20-%20Excelente%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22Apenas%20utiliz%E1is%20figuras%20geom%E9tricas%20o%20aparecen%20de%20forma%20incorrecta.%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22Incluye%20algunas%20figuras%20geom%E9tricas%2C%20aunque%20con%20poca%20relaci%F3n%20en%20la%20trama.%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22Integran%20varias%20figuras%20geom%E9tricas%20en%20la%20historia%20de%20forma%20adecuada.%22%7D%2C%7B%22weight%22%3A%221.25%22%2C%22text%22%3A%22Integran%20varias%20figuras%20geom%E9tricas%20de%20forma%20creativa%20y%20relevante%20en%20toda%20la%20historia.%22%7D%5D%2C%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22La%20historia%20est%E1%20incompleta%20o%20resulta%20dif%EDcil%20de%20comprender.%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22La%20historia%20muestra%20alguna%20de%20las%20partes%20b%E1sicas%2C%20pero%20la%20secuencia%20no%20siempre%20es%20clara.%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22La%20historia%20presenta%20inicio%2C%20desarrollo%20y%20final%20con%20alguna%20peque%F1a%20dificultad%20de%20comprensi%F3n%22%7D%2C%7B%22weight%22%3A%221.25%22%2C%22text%22%3A%22La%20historia%20tiene%20un%20inicio%2C%20desarrollo%20y%20final%20muy%20claros%20y%20f%E1ciles%20de%20seguir.%22%7D%5D%2C%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22La%20historia%20muestra%20escasa%20creatividad%20o%20apenas%20desarrolla%20ideas%20propias.%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22Presenta%20algunas%20ideas%20creativas%2C%20aunque%20poco%20desarrolladas.%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22Presenta%20ideas%20creativas%20y%20una%20historia%20atractiva.%22%7D%2C%7B%22weight%22%3A%221.25%22%2C%22text%22%3A%22Presenta%20ideas%20originales%2C%20personajes%20interesantes%20y%20gran%20imaginaci%F3n.%22%7D%5D%2C%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22Presentan%20dificultades%20importantes%20en%20el%20uso%20de%20la%20herramienta%20o%20el%20trabajo%20est%E1%20incompleto.%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22Utiliza%20algunas%20herramientas%20con%20ayuda%20y%20la%20presentaci%F3n%20necesita%20mejorar.%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22Utiliza%20adecuadamente%20las%20herramientas%20b%E1sicas%20de%20Book%20Creator%20y%20la%20presentaci%F3n%20es%20clara.%22%7D%2C%7B%22weight%22%3A%221.25%22%2C%22text%22%3A%22Utiliza%20correctamente%20las%20herramientas%20de%20Book%20Creator%20y%20el%20trabajo%20est%E1%20muy%20cuidado.%22%7D%5D%5D%7D%2C%22title%22%3A%22R%FAbrica%20de%20ejemplo%20%284x4%29%22%2C%22categories%22%3A%5B%22Criterios%201%3A%20Uso%20de%20las%20figuras%20geom%E9tricas%20en%20la%20historia.%22%2C%22Criterios%202%3A%20Estructura%20y%20comprensi%F3n%20de%20la%20historia.%22%2C%22Criterios%203%3A%20Creatividad%20y%20expresi%F3n.%22%2C%22Criterios%204%3A%20Uso%20de%20Book%20Creator%20y%20presentaci%F3n%20digital.%22%5D%2C%22scores%22%3A%5B%22Nivel%201-%20Inicial%22%2C%22Nivel%202%20-%20En%20proceso%22%2C%22Nivel%203%20-%20Notable%22%2C%22Nivel%204%20-%20Excelente%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22Apenas%20utiliz%E1is%20figuras%20geom%E9tricas%20o%20aparecen%20de%20forma%20incorrecta.%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22Incluye%20algunas%20figuras%20geom%E9tricas%2C%20aunque%20con%20poca%20relaci%F3n%20en%20la%20trama.%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22Integran%20varias%20figuras%20geom%E9tricas%20en%20la%20historia%20de%20forma%20adecuada.%22%7D%2C%7B%22weight%22%3A%221.25%22%2C%22text%22%3A%22Integran%20varias%20figuras%20geom%E9tricas%20de%20forma%20creativa%20y%20relevante%20en%20toda%20la%20historia.%22%7D%5D%2C%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22La%20historia%20est%E1%20incompleta%20o%20resulta%20dif%EDcil%20de%20comprender.%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22La%20historia%20muestra%20alguna%20de%20las%20partes%20b%E1sicas%2C%20pero%20la%20secuencia%20no%20siempre%20es%20clara.%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22La%20historia%20presenta%20inicio%2C%20desarrollo%20y%20final%20con%20alguna%20peque%F1a%20dificultad%20de%20comprensi%F3n%22%7D%2C%7B%22weight%22%3A%221.25%22%2C%22text%22%3A%22La%20historia%20tiene%20un%20inicio%2C%20desarrollo%20y%20final%20muy%20claros%20y%20f%E1ciles%20de%20seguir.%22%7D%5D%2C%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22La%20historia%20muestra%20escasa%20creatividad%20o%20apenas%20desarrolla%20ideas%20propias.%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22Presenta%20algunas%20ideas%20creativas%2C%20aunque%20poco%20desarrolladas.%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22Presenta%20ideas%20creativas%20y%20una%20historia%20atractiva.%22%7D%2C%7B%22weight%22%3A%221.25%22%2C%22text%22%3A%22Presenta%20ideas%20originales%2C%20personajes%20interesantes%20y%20gran%20imaginaci%F3n.%22%7D%5D%2C%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22Presentan%20dificultades%20importantes%20en%20el%20uso%20de%20la%20herramienta%20o%20el%20trabajo%20est%E1%20incompleto.%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22Utiliza%20algunas%20herramientas%20con%20ayuda%20y%20la%20presentaci%F3n%20necesita%20mejorar.%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22Utiliza%20adecuadamente%20las%20herramientas%20b%E1sicas%20de%20Book%20Creator%20y%20la%20presentaci%F3n%20es%20clara.%22%7D%2C%7B%22weight%22%3A%221.25%22%2C%22text%22%3A%22Utiliza%20correctamente%20las%20herramientas%20de%20Book%20Creator%20y%20el%20trabajo%20est%E1%20muy%20cuidado.%22%7D%5D%5D%2C%22instructions%22%3A%22%3Cp%3E%3Cstrong%3ECompleta%20la%20siguiente%20r%FAbrica%3A%3C/strong%3E%3C/p%3E%5Cn%3Cp%3EEn%20este%20caso%20practicaremos%20una%20autoevaluaci%F3n%20en%20funci%F3n%20de%20los%20descriptores%20que%20aparecen%20en%20esta%20r%FAbrica.%A0%3C/p%3E%22%2C%22visible-info%22%3Atrue%2C%22author%22%3A%22Luis%20Miguel%20Morillas%20Gamarra%22%2C%22i18n%22%3A%7B%22rubric%22%3A%22R%FAbrica%22%2C%22activity%22%3A%22Actividad%22%2C%22name%22%3A%22Nombre%22%2C%22date%22%3A%22Fecha%22%2C%22score%22%3A%22Puntuaci%F3n%22%2C%22notes%22%3A%22Notas%22%2C%22download%22%3A%22Descargar%22%2C%22msgDelete%22%3A%22%BFSeguro%20que%20desea%20borrar%20todos%20los%20campos%20del%20formulario%3F%22%2C%22reset%22%3A%22Reiniciar%22%2C%22print%22%3A%22Imprimir%22%2C%22apply%22%3A%22Aplicar%22%2C%22newWindow%22%3A%22Ventana%20nueva%22%2C%22msgEndGameScore%22%3A%22Completa%20la%20r%FAbrica%20antes%20de%20guardar%20tu%20puntuaci%F3n.%22%2C%22msgScoreScorm%22%3A%22La%20puntuaci%F3n%20no%20se%20puede%20guardar%20porque%20esta%20p%E1gina%20no%20forma%20parte%20%20de%20un%20paquete%20SCORM.%22%2C%22msgOnlySaveScore%22%3A%22%A1Solo%20puede%20guardar%20la%20puntuaci%F3n%20una%20vez%21%22%2C%22msgYouScore%22%3A%22Su%20puntuaci%F3n%22%2C%22msgOnlySaveAuto%22%3A%22Tu%20puntuaci%F3n%20se%20guardar%E1%20despu%E9s%20de%20cada%20cambio.%20Solo%20puedes%20completarla%20una%20vez.%22%2C%22msgSaveAuto%22%3A%22Tu%20puntuaci%F3n%20se%20guardar%E1%20autom%E1ticamente%20despu%E9s%20de%20cada%20cambio.%22%2C%22msgSeveralScore%22%3A%22Puede%20guardar%20la%20puntuaci%F3n%20tantas%20veces%20como%20quiera%22%2C%22msgYouLastScore%22%3A%22La%20%FAltima%20puntuaci%F3n%20guardada%20es%22%2C%22msgActityComply%22%3A%22Ya%20ha%20realizado%20esta%20actividad.%22%2C%22msgPlaySeveralTimes%22%3A%22Puede%20realizar%20esta%20actividad%20cuantas%20veces%20quiera%22%2C%22msgScore%22%3A%22Puntuaci%F3n%22%2C%22msgWeight%22%3A%22Peso%22%7D%2C%22isScorm%22%3A0%2C%22textButtonScorm%22%3A%22Guardar%20la%20puntuaci%F3n%22%2C%22repeatActivity%22%3Atrue%2C%22weighted%22%3A100%7D</div><p class="exe-rubrics-authorship"><span class="author">Luis Miguel Morillas Gamarra</span>. <span class="title"><em>Rúbrica de ejemplo (4x4)</em></span> </p><ul class="exe-rubrics-strings"><li class="rubric">Rúbrica</li><li class="activity">Actividad</li><li class="name">Nombre</li><li class="date">Fecha</li><li class="score">Puntuación</li><li class="notes">Notas</li><li class="download">Descargar</li><li class="msgDelete">¿Seguro que desea borrar todos los campos del formulario?</li><li class="reset">Reiniciar</li><li class="print">Imprimir</li><li class="apply">Aplicar</li><li class="newWindow">Ventana nueva</li><li class="msgEndGameScore">Completa la rúbrica antes de guardar tu puntuación.</li><li class="msgScoreScorm">La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.</li><li class="msgOnlySaveScore">¡Solo puede guardar la puntuación una vez!</li><li class="msgYouScore">Su puntuación</li><li class="msgOnlySaveAuto">Tu puntuación se guardará después de cada cambio. Solo puedes completarla una vez.</li><li class="msgSaveAuto">Tu puntuación se guardará automáticamente después de cada cambio.</li><li class="msgSeveralScore">Puede guardar la puntuación tantas veces como quiera</li><li class="msgYouLastScore">La última puntuación guardada es</li><li class="msgActityComply">Ya ha realizado esta actividad.</li><li class="msgPlaySeveralTimes">Puede realizar esta actividad cuantas veces quiera</li><li class="msgScore">Puntuación</li><li class="msgWeight">Peso</li></ul></div><div class="exe-rubrics-richtext-data sr-av"><span class="exe-rubrics-instructions-data">%3Cp%3E%3Cstrong%3ECompleta%20la%20siguiente%20r%FAbrica%3A%3C/strong%3E%3C/p%3E%0A%3Cp%3EEn%20este%20caso%20practicaremos%20una%20autoevaluaci%F3n%20en%20funci%F3n%20de%20los%20descriptores%20que%20aparecen%20en%20esta%20r%FAbrica.%A0%3C/p%3E</span><span class="exe-rubrics-text-after-data"></span></div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mq89p8pj-camhqbw74</odePageId>
+      <odeBlockId>block-1781028235752-tz9tw54sr</odeBlockId>
+      <blockName>Cuestionario Evaluación inicial</blockName>
+      <iconName>objectives</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq89p8pj-camhqbw74</odePageId>
+          <odeBlockId>block-1781028235752-tz9tw54sr</odeBlockId>
+          <odeIdeviceId>idevice-1781028235749-zc0i72ygu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>00:15</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Individual</dd></div></dl><p>💻 Cuestionario de google, para comprobar nuestro conocimientos previos sobre la materia.</p>
+<p>🔗 <a href="https://forms.gle/nF1aGnZMsRfb3FsW6">https://forms.gle/nF1aGnZMsRfb3FsW6</a> 🔗 💪☘️</p>
+<p><br /></p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781028235749-zc0i72ygu","textInfoDurationInput":"00:15","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Individual","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>00:15</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>Individual</dd></div></dl><p>💻 Cuestionario de google, para comprobar nuestro conocimientos previos sobre la materia.</p>\n<p>🔗 <a href=\"https://forms.gle/nF1aGnZMsRfb3FsW6\">https://forms.gle/nF1aGnZMsRfb3FsW6</a> 🔗 💪☘️</p>\n<p><br /></p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq89p8pk-vdlrdtpoq</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía Didáctica</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía Didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía Didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Guía Didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq89p8pk-vdlrdtpoq</odePageId>
+      <odeBlockId>block-1781027192580-cf2enueuo</odeBlockId>
+      <blockName>Guía didáctica</blockName>
+      <iconName>guide</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq89p8pk-vdlrdtpoq</odePageId>
+          <odeBlockId>block-1781027192580-cf2enueuo</odeBlockId>
+          <odeIdeviceId>idevice-1781027192577-deb5clr8e</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Este recurso didáctico ha sido diseñado para el alumnado de 1º Ciclo de Educación Primaria descubra y reconozca las principales figuras geométricas de una manera lúdica, interactiva y significativa. A través de actividades de observación, exploración, juego y creación, utilizándolas como elemento principal en la elaboración de producciones propias.</p>
+<p>El objetivo es favorecer el aprendizaje de los conceptos geométricos básicos mediante el uso de herramientas digitales, fomentando al mismo tiempo la creatividad, la competencia digital, la expresión oral y escrita, y el trabajo autónomo. Elaborando un producto final, mediante una historia a través de la herramienta digital Book Creator.</p>
+<p>🔗 <a href="https://docs.google.com/document/d/19__BrxT3k5WueO_YFdeuSxLYg40oMeR3-5gTd1HKt0I/edit?usp=sharing">https://docs.google.com/document/d/19__BrxT3k5WueO_YFdeuSxLYg40oMeR3-5gTd1HKt0I/edit?usp=sharing </a>🔗</p>
+<p><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781027192577-deb5clr8e","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Este recurso didáctico ha sido diseñado para el alumnado de 1º Ciclo de Educación Primaria descubra y reconozca las principales figuras geométricas de una manera lúdica, interactiva y significativa. A través de actividades de observación, exploración, juego y creación, utilizándolas como elemento principal en la elaboración de producciones propias.</p>\n<p>El objetivo es favorecer el aprendizaje de los conceptos geométricos básicos mediante el uso de herramientas digitales, fomentando al mismo tiempo la creatividad, la competencia digital, la expresión oral y escrita, y el trabajo autónomo. Elaborando un producto final, mediante una historia a través de la herramienta digital Book Creator.</p>\n<p>🔗 <a href=\"https://docs.google.com/document/d/19__BrxT3k5WueO_YFdeuSxLYg40oMeR3-5gTd1HKt0I/edit?usp=sharing\">https://docs.google.com/document/d/19__BrxT3k5WueO_YFdeuSxLYg40oMeR3-5gTd1HKt0I/edit?usp=sharing </a>🔗</p>\n<p><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq89p8pk-ipztlniog</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq89p8pk-ipztlniog</odePageId>
+      <odeBlockId>block-1781025787578-7rkq19nn1</odeBlockId>
+      <blockName>Créditos</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq89p8pk-ipztlniog</odePageId>
+          <odeBlockId>block-1781025787578-7rkq19nn1</odeBlockId>
+          <odeIdeviceId>idevice-1781025787571-336wzhc0z</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Autor: Luis Miguel Morillas Gamarra.</p>
+<p>IES Fuente Nueva, El Ejido, Almería.</p>
+<p>Proyecto: ¡Las figuras geométricas!</p>
+<p>Descripción: A través de este recurso, podrás trabajar las figuras geométricas de una forma autónoma y divertida.</p>
+<p>Licencia:</p>
+<p>Este recurso se comparte mediante, Licencia Creative Commons Reconocimiento No comercial Compartir igual 4.0</p>
+<p> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781025787571-336wzhc0z","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Autor: Luis Miguel Morillas Gamarra.</p>\n<p>IES Fuente Nueva, El Ejido, Almería.</p>\n<p>Proyecto: ¡Las figuras geométricas!</p>\n<p>Descripción: A través de este recurso, podrás trabajar las figuras geométricas de una forma autónoma y divertida.</p>\n<p>Licencia:</p>\n<p>Este recurso se comparte mediante, Licencia Creative Commons Reconocimiento No comercial Compartir igual 4.0</p>\n<p> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
